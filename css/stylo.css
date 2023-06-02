@@ -73,6 +73,18 @@ img:hover{
     margin: auto;
 
 }
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+  }
+  
+  ul li {
+    padding-left: 2rem;
+    background-image: url(/img/star.png);
+    background-position: 0 0;
+    background-size:10px ;
+    background-repeat: no-repeat;
+  }
 .lo{
     margin: auto;
 display: block;
