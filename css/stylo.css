@@ -60,7 +60,12 @@ margin: auto;
 display: block;
 
 }
-
+img:hover{ 
+    border: 15px solid darkblue;
+  border-style: dotted;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5)
+}
 .lista{
     color: rgb(42, 116, 165);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
